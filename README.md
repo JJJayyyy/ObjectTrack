@@ -1,5 +1,5 @@
 # ObjectTrack
-Downloading official pretrained weights into data/weight
+Downloading official pretrained weights into directory: data/weight
 ```
 https://pjreddie.com/media/files/yolov3.weights
 ```
